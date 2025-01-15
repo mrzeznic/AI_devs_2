@@ -1,2 +1,4 @@
-# AI_devs_2
-code for task from AI_devs_2 programe
+# ai_devs
+
+## Install necessary libraries
+pip install -r requirements.txt 
